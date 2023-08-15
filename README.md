@@ -1,2 +1,2 @@
 # IO
-Investigación de operaciones 1
+## Investigación de operaciones 1
